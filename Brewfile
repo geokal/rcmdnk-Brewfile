@@ -58,7 +58,6 @@ brew libyaml
 brew libzip
 brew m-cli
 brew mas
-brew mysql
 brew ncurses
 brew nettle
 brew node
@@ -134,6 +133,3 @@ appstore 715768417 Microsoft Remote Desktop (8.0.27319)
 appstore 409201541 Pages (6.3.1)
 appstore 425424353 The Unarchiver (3.11.2)
 appstore 907364780 Tomato One (1.0.6)
-
-# Other commands
-git https://github.com/geokal/rcmdnk-Brewfile.git
