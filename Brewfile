@@ -11,7 +11,7 @@ brew awscli
 brew bash-completion
 brew camlp4
 brew cask
-brew clasp
+brew clingo
 brew cmake
 brew ctags
 brew dirmngr
@@ -31,7 +31,7 @@ brew gmp
 brew gnupg
 brew gnutls
 brew gpg-agent
-brew gringo
+brew highlight
 brew httpie
 brew icu4c
 brew ideviceinstaller
@@ -43,6 +43,7 @@ brew libev
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libidn2
 brew libimobiledevice
 brew libksba
 brew libplist
@@ -56,8 +57,11 @@ brew libusb-compat
 brew libxml2
 brew libyaml
 brew libzip
+brew lnav
+brew lua
 brew m-cli
 brew mas
+brew ncdu
 brew ncurses
 brew nettle
 brew node
@@ -85,6 +89,7 @@ brew rbenv
 brew readline
 brew redis
 brew ruby-build
+brew sip
 brew sphinx-doc
 brew sqlite
 brew unixodbc
@@ -107,11 +112,26 @@ tap homebrew/versions
 tap caskroom/cask
 cask cuda-z
 cask fastlane
+cask mamp
 cask minishift
+cask qlcolorcode
+cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask sublime-text
+cask suspicious-package
 cask virtualbox
+cask webpquicklook
 
 tap caskroom/fonts
 cask font-twitter-color-emoji
+
+tap caskroom/versions
+cask spyder-py2
+
+tap cartr/qt4
 
 tap facebook/fb
 brew buck
