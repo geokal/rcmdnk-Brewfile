@@ -93,9 +93,7 @@ brew lua
 brew lua@5.1
 brew lynx
 brew m-cli
-brew mas
 brew mps-youtube
-brew mpv
 brew mujs
 brew ncdu
 brew ncftp
@@ -163,11 +161,7 @@ brew zeromq
 
 tap homebrew/bundle
 
-tap homebrew/science
-
 tap homebrew/services
-
-tap homebrew/versions
 
 tap homebrew/cask
 cask cuda-z
